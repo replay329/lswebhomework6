@@ -6,7 +6,7 @@
 
 
 
-	* Functions 
+* Functions 
     
 are reusable blocks of code instructions with a name that acts as a shortcut, which then does specific tasks or procedures, and returns (or gives you back) a value. You give the function further information in order to specify what you want the function to do. 
 
@@ -15,7 +15,7 @@ You can use prewritten libraries of functions to save time, or you can write you
 EXAMPLE: declare a function called ALLOWANCE. Whether a kid GETS an allowance - and how much they get - depends on a variety of different circumstances and conditions. 
 
 
-	* Parameters 
+* Parameters 
 
 set out the characteristics or guidelines for what matters in the function - like a set of placeholders.
 
@@ -26,7 +26,7 @@ But it could also be a set of complex values which are being sent back and forth
 EXAMPLE: the ALLOWANCE function requires parameters like CASH AMOUNT and FREQUENCY and WHICHPARENTWILLGIVE, these can be subject to change depending on other behaviour parameters like GOOD GRADES, CLEAN BEDROOM, POLITENESS, HOME ON TIME etc. 
 
 
-	* Arguments 
+* Arguments 
     
 are often very similar to a parameter, but they're a value or set of more specific named details which can interact with the parameters to allow the function to make decisions and operate.  
 
@@ -35,7 +35,7 @@ The argument can only be sent in one direction through the computer program so t
 EXAMPLE: our ALLOWANCE function could say there are 2 parents called DAN AND JO (parameters) who have a kid called SAM (argument) who has been good, studies hard, gets home before curfew and is polite to people. (All arguments). They also have a kid called BOBBY (argument) who is terrible on all of these things (argument). And SAM and BOBBY would like an ALLOWANCE - please and thank you very much!
 
 
-	* `if` statements 
+* `if` statements 
     
 tell the computer which conditions or circumstances need to exist or take place in order to "then" do a specific action or "else" do something different.   
 
@@ -59,7 +59,7 @@ THEN MYALLOWANCE = £KACHINNGGGG!!
 you could even recognise that IF JO is broke THEN ALLOWANCE will be paid by DAN at the weekend!
 
 
-
+---
 
 
 
